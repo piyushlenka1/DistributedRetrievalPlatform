@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import 'remixicon/fonts/remixicon.css';
+
+body {
+    background-color: black;
+    color: white;
+}
